@@ -1,4 +1,4 @@
-import {r as n} from "./index.RH_Wq4ov1.js";
+import {r as n} from "https://rootkit-.github.io/misc/Javascript/index.RH_Wq4ov1.js";
 var k = {
     exports: {}
 }
