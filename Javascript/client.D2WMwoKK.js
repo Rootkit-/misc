@@ -1,4 +1,4 @@
-import {a as Iv, r as ta} from "https://rootkit-.github.io/misc/Javascript/index.RH_Wq4ov1.js";
+import {a as Iv, r as ta} from "https://rootkit-.github.io/misc/Javascript/index.RH_Wq4ov.js";
 var wc = {
     exports: {}
 }
