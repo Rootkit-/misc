@@ -1,5 +1,5 @@
 /**
- * @name PinDMs
+ * @name PinDMss
  * @author DevilBro
  * @authorId 278543574059057154
  * @version 2.0.7
@@ -9,7 +9,7 @@
  * @patreon https://www.patreon.com/MircoWittrien
  * @website https://mwittrien.github.io/
  * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/PinDMs/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Plugins/PinDMs/PinDMs.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/Rootkit-/misc/refs/heads/main/PinDMss.plugin.js
  */
 
 module.exports = (_ => {
